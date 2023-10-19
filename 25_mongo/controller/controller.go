@@ -16,7 +16,7 @@ import (
 	"os"
 )
 
-// const connectionString = "mongodb+srv://pabloerhard02:PErh&Her02@testcluster.61ydvft.mongodb.net/?retryWrites=true&w=majority"
+
 const dbName = "netflix"
 const colName = "watchlist"
 
